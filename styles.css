@@ -5,7 +5,7 @@ body {
     color: white;
 }
 
-nav {
+nav, footer {
     border: 2px solid #C2625C;
 }
 
@@ -16,8 +16,13 @@ a:visited, a:link {
 footer {
     text-align: center;
     padding-top: 5px;
-    border-top: 2px solid #C2625C;
 }
+
+/*.rows {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}*/
 
 img {
     display: block;
