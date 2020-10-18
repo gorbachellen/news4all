@@ -23,10 +23,11 @@ h2 {
     vertical-align: text-top;
 }
 
-div {
+.columns {
     column-count: 3;
     column-gap: 70px;
     column-rule-style: solid;
+    margin-top: 40px;
 }
 
 footer {
