@@ -1,15 +1,32 @@
 /* CSS page */
 
 body {
-    background-color: black;
+    background-color: #2A2E6D;
     color: white;
 }
 
 nav {
-    border-bottom: 1px solid yellow;
+    border: 1px solid white;
+}
+
+h1 {
+    font-size: 50px;
 }
 
 nav ul {
     list-style-type: none;
     padding-left: 0;
 }
+
+li {
+    display: inline-block;
+}
+
+li a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+  }
