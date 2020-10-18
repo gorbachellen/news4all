@@ -9,6 +9,10 @@ nav {
     border: 1px solid white;
 }
 
+nav a:visited {
+    color: white;
+}
+
 h1 {
     font-size: 50px;
 }
