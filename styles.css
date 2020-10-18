@@ -9,8 +9,8 @@ nav {
     border: 2px solid #C2625C;
 }
 
-nav a:visited {
-    color: white;
+a:visited, a:link {
+    color: #FAEAE9;
 }
 
 footer {
