@@ -13,6 +13,22 @@ a:visited, a:link {
     color: #FAEAE9;
 }
 
+p {
+    text-align: center;
+}
+
+h2 {
+    column-span:1;
+    text-align: center;
+    vertical-align: text-top;
+}
+
+div {
+    column-count: 3;
+    column-gap: 70px;
+    column-rule-style: solid;
+}
+
 footer {
     text-align: center;
     padding-top: 5px;
